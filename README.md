@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently going with **AWS, Golang, React and Ruby**
 
-- 💬 Ask me about **React, GraphQL, Go, Blockchain**
-
-- 📫 How to reach me **tsiry.sndr@aol.com**
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subeshb1&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>

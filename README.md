@@ -77,9 +77,11 @@
 
 <h3>My latest blog posts</h3>
 <ul>
-  <li><a href="https://levelup.gitconnected.com/lambda-vs-lambda-vs-lambda-a-journey-through-aws-serverless-genai-application-deployments-ca1b2e3407bf"><b>Lambda vs Lambda vs Lambda: A Journey Through AWS Serverless GenAI Application Deployments</b></a><br/><i>Exploring three serverless deployment strategies for GenAI applications in AWS</i></li>
-  <li><a href="https://medium.com/swlh/getting-started-with-webassembly-and-go-by-building-an-image-to-ascii-converter-dea10bdf71f6"><b>Getting Started With WebAssembly and Go By Building an Image to ASCII Converter</b></a><br/><i>Learn how to use WebAssembly with Go to build browser applications</i></li>
-  <li><a href="https://levelup.gitconnected.com/json-api-testing-from-the-terminal-492528d65049"><b>JSON API testing from the terminal</b></a><br/><i>A powerful API testing framework for organizing and automating API tests</i></li>
+  <li><a href="https://medium.com/swlh/deep-dive-into-building-ai-agents-with-llms-695df4b1e94f"><b>Deep Dive into Building AI Agents with LLMs</b></a><br/><i>A comprehensive guide on building AI agents using LLMs and Agenite, exploring different levels of integration and practical implementations.</i></li>
+  <li><a href="https://levelup.gitconnected.com/lambda-vs-lambda-vs-lambda-a-journey-through-aws-serverless-genai-application-deployments-ca1b2e3407bf"><b>Lambda vs Lambda vs Lambda: A Journey Through AWS Serverless GenAI Application Deployments</b></a><br/><i>Comparing three serverless deployment strategies (WebSocket, SSE, and REST) for GenAI applications in AWS.</i></li>
+  <li><a href="https://medium.com/swlh/getting-started-with-webassembly-and-go-by-building-an-image-to-ascii-converter-dea10bdf71f6"><b>Getting Started With WebAssembly and Go By Building an Image to ASCII Converter</b></a><br/><i>Learn how to import Go code to Wasm and run it in the browser by building an image to ASCII converter.</i></li>
+  <li><a href="https://levelup.gitconnected.com/
+  json-api-testing-from-the-terminal-492528d65049"><b>JSON API testing from the terminal</b></a><br/><i>A powerful API testing framework for organizing and automating API tests</i></li>
 </ul>
 
 <h3>Where to find me</h3>
